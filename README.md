@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dhanaramineni
+-    Now i am doing my masters
 - 👀 I’m interested in JAVA Application
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on my intersted technology
